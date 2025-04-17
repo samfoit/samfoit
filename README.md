@@ -10,7 +10,6 @@ I've been learning programming for 3 years. I started out making video games in 
 * ✉️  You can contact me at [smfoit4311@gmail.com](mailto:smfoit4311@gmail.com)
 * 🧠  I'm learning React and Firebase
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I may or may not be TikTok famous
 
 ### Skills
 
